@@ -1,0 +1,7 @@
+abbb -- SI
+aba -- SI
+abbba -- SI
+aaaaaaaaaaaaaaa -- NO
+bbbbbbbbbbbbbbbbbbb -- NO
+abbbbbbbbbbbbbbbbb -- NO
+abbbaaaaaaaaaaaaaaaaa -- NO
